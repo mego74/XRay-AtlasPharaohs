@@ -1,6 +1,6 @@
 # XRay-AtlasPharaohs
 
-A new Flutter project.
+An update for the actual application (Atlas Pharaohs). This update is for determine if the user infected with corona or not using tensorflow. 
 
 ## Getting Started
 
